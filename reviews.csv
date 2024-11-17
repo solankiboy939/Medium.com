@@ -1,7 +1,7 @@
-Word,Positive Count,Negative Count
-Love,1,0
-Amazing,1,0
-Fantastic,1,0
-terrible,0,1
-hated,0,1
-Worst,0,1
+Word,Positive Count,Negative Count,
+Love,1,0,
+Amazing,1,0,
+Fantastic,1,0,
+terrible,0,1,
+hated,0,1,
+Worst,0,1,
